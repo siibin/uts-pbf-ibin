@@ -17,6 +17,7 @@
 ├── [GET] /api/oauth/register/           # URI untuk memulai google oauth
 ```
 
+<br><br>
 ## Kebutuhan
 
 1. PHP 8.0+
