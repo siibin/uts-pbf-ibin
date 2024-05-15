@@ -22,10 +22,10 @@ Project membuat REST API sederhana menggunakan Laravel dengan Migration dan Seed
 <br><br>
 ## Kebutuhan
 
-1. PHP 8.0+
-2. Laravel 9.1+
-3. Composer 2.4+
-4. MariaDB 10.4+, MySQL 8.0+, PostgreSQL 16.0+
+1. PHP __8.0+__
+2. Laravel __9.1+__
+3. Composer __2.4+__
+4. MariaDB __10.4+__, MySQL __8.0+__, PostgreSQL __16.0+__
 
 > [!WARNING]
 > Jangan gunakan __Laravel versi 11__ jika anda tidak familiar dengan ekosistem Laravel
