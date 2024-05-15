@@ -1,5 +1,22 @@
 # lrvl-tmp
 
+## Endpoint API
+```
+├── [GET] /api/categories/               # Request data kategori dengan method GET
+├── [POST] /api/categories/              # Insert data baru kategori dengan method POST
+├── [PUT] /api/categories/{id}           # Update data kategori dengan method PUT
+├── [DELETE] /api/categories/{id}        # Delete data kategori dengan method DELETE
+.
+├── [GET] /api/products/                 # Request data produk dengan method GET
+├── [POST] /api/products/                # Insert data baru produk dengan method POST
+├── [PUT] /api/products/{id}             # Update data produk dengan method PUT
+├── [DELETE] /api/products/{id}          # Delete data produk dengan method DELETE
+.
+├── [POST] /api/register/                # Register akun baru
+├── [POST] /api/login/                   # Otentikasi akun menggunakan username dan password untuk mendapatkan JWT
+├── [GET] /api/oauth/register/           # URI untuk memulai google oauth
+```
+
 ## Kebutuhan
 
 1. PHP 8.0+
