@@ -147,6 +147,10 @@ GOOGLE_CLIENT_ID=xxx        // Isi dengan <client-id> anda dari file .json
 GOOGLE_CLIENT_SECRET=xxx    // Isi dengan <client-secret> anda dari file .json
 GOOGLE_CALLBACK_URL=xxx     // Isi dengan <redirect_uri> anda dari file .json
 ```
+> [!TIP]
+> Google tidak mendukung penggunaan Otentikasi OAuth dilokal server (localhost), jadi
+> Anda harus meng-upload project ke hosting terlebih dahulu
+
 
 <br><br>
 
