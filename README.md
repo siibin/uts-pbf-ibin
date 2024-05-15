@@ -51,12 +51,12 @@ composer update
 3. Pergi ke baris berikut:
 
 ```env
-DB_CONNECTION=mysql     // Driver database yang digunakan (mysql, mariadb, pgsql)
-DB_HOST=localhost       // Host database (default: localhost)
-DB_PORT=3306            // Port database (default mysql & mariadb: 3306, default postgresql: 5432)
-DB_DATABASE=laravel     // Nama database
-DB_USERNAME=root        // Username database
-DB_PASSWORD=            // Password database
+DB_CONNECTION=mysql     # Driver database yang digunakan (mysql, mariadb, pgsql)
+DB_HOST=localhost       # Host database (default: localhost)
+DB_PORT=3306            # Port database (default mysql & mariadb: 3306, default postgresql: 5432)
+DB_DATABASE=laravel     # Nama database
+DB_USERNAME=root        # Username database
+DB_PASSWORD=            # Password database
 ```
 
 4. Ganti sesuai dengan nama database dan driver database yang digunakan
