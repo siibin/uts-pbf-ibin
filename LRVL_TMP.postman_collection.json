@@ -438,12 +438,12 @@
 	"variable": [
 		{
 			"key": "jwtToken",
-			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNzE1Njg0NTkzLCJleHAiOjE3MTU2ODgxOTMsIm5iZiI6MTcxNTY4NDU5MywianRpIjoidW5tTFVWb0RmeDhIRm1NcSIsInN1YiI6IjQiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.hGcLXsTJy8_Csbo27ODV6oiNnRT28lBj-Mz37HnXpmc",
+			"value": "",
 			"type": "string"
 		},
 		{
 			"key": "baseUrl",
-			"value": "https://rifkyalfian.000webhostapp.com/",
+			"value": "",
 			"type": "string"
 		},
 		{
