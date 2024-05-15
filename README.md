@@ -1,5 +1,7 @@
 # lrvl-tmp
+Project membuat REST API sederhana menggunakan Laravel dengan Migration dan Seeder untuk konfigurasi database, otentikasi JWT dan OAuth Google.
 
+<br><br>
 ## Endpoint API
 ```
 ├── [GET] /api/categories/               # Request data kategori dengan method GET
