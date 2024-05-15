@@ -28,7 +28,7 @@ Project membuat REST API sederhana menggunakan Laravel dengan Migration dan Seed
 4. MariaDB 10.4+, MySQL 8.0+, PostgreSQL 16.0+
 
 > [!WARNING]
-> Jangan gunakan __Laravel versi 11__ jika anda tidak familiar dengan environment Laravel
+> Jangan gunakan __Laravel versi 11__ jika anda tidak familiar dengan ekosistem Laravel
 
 <br><br>
 
